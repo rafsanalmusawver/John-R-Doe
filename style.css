@@ -188,6 +188,12 @@ input{
 	padding: 10px;
 	}
 
+.formCustom{
+    font-family: FontAwesome, sans-serif;
+	background:rgba(0,0,0,.15);
+	}
+
+
 textarea{
 	width: 100%;
 	}
